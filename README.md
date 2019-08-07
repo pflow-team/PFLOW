@@ -55,8 +55,7 @@ cd pflow
 <b>Step 2.</b> Compile PFLOW using the makefile.
 
 ```
-make PFLOWHELICST
-make PFLOWHELICSD
+make PFLOW
 ```
 
 ## Who is responsible?
@@ -71,7 +70,7 @@ make PFLOWHELICSD
 
 ## Acknowledgement
 
-This project is supported by Kemal Celik, [U.S. DOE Office of Electricity, Solar Energy Technology Office](https://www.energy.gov/eere/solar/solar-energy-technologies-office).
+This work is supported by U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Solar Energy Technologies Office, under contract DE-EE0001748.
 
 ## Citation
 If you use this code please cite it as:
